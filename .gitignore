@@ -1,0 +1,13 @@
+# express gitignore file
+
+node_modules
+
+# local env file
+.env
+
+# build output
+dist
+
+# logs
+logs
+logs.log
